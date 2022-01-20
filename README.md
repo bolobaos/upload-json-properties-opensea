@@ -18,7 +18,7 @@ Steps:
 3. Run Command Prompt
 4. cd to correct directory
 5. Input 'pip install -r requirements.txt'
-6. 'python uploadproperties.py' (Run the script)
+6. **Edit 'python uploadproperties.py' prior to running. You will need to edit the alt name under the Search function for the program to select the appropriate image. Please test this program prior to looping through multiple images**
 7. Press the "Open Chrome Browser" button
 8. Set up your metamask wallet and login to Opensea using your wallet. If you stay on this page, you should not have to login again while the script runs. 
 9. Open the collection you want to edit. Copy collection link and paste it in app.
@@ -28,4 +28,4 @@ Steps:
 
 Credits @nftdevs
 
-*Never give out your Metamask wallet information. 
+*Never give out your Metamask wallet information.  
