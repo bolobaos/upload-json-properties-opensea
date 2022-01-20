@@ -242,7 +242,7 @@ def main_program_loop():
         properties = driver.find_element_by_xpath('//*[@id="main"]/div/div/section/div[2]/form/section/div[1]/div/div[2]/button')
         properties.click()
                 
-        #####ADDING PROPERTIES####
+        #####ADDING PROPERTIES#### #make sure the appropriate key names are listed below. e.g., update 'Trait_type' and 'value' as what is listed in your json file#
         add_p = driver.find_element_by_xpath('/html/body/div[4]/div/div/div/section/button')  
     
         for i in range(len(metadata)):
