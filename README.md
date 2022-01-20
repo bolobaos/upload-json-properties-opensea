@@ -1,0 +1,2 @@
+# upload-json-properties-opensea
+This code is for those that used nftdevs' NFTs upload to opensea app prior to the one they pushed out with metadata upload abilities. This script may help you automate the uploads of properties to an existing collection. if you are looking for something to create a new collection and upload properties, I'm sure there are better packages out there than this one. This one is meant for editing an existing collection.
