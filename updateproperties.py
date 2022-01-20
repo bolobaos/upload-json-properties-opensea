@@ -209,8 +209,7 @@ def main_program_loop():
             print(metadata) #PRINT METADATA ON CONSOLE TO MAKE SURE IT IS CORRECT
             logging.info(metadata) #ALSO LOGGING INFORMATION IN CASE CONSOLE CRASHES
             
-        #properties already included 4263, 1000-1224 cannot edit 1511 2000-2018
-        
+            
         #####SEARCH####
         
         search_bar = driver.find_element_by_xpath('//*[@id="main"]/div/div/div[4]/div/div/div/div[3]/div[1]/div[1]/input')
