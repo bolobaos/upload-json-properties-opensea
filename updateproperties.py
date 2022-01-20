@@ -210,7 +210,7 @@ def main_program_loop():
             logging.info(metadata) #ALSO LOGGING INFORMATION IN CASE CONSOLE CRASHES
             
             
-        #####SEARCH####
+        #####SEARCH#### ####IMPORTANT: EDIT THE ALT NAME BELOW (REPLACE 'PIGGIE') SO THAT THE PROGRAM CAN SELECT THE APPROPRIATE IMAGE
         
         search_bar = driver.find_element_by_xpath('//*[@id="main"]/div/div/div[4]/div/div/div/div[3]/div[1]/div[1]/input')
         search_bar.send_keys(start_num)
@@ -218,7 +218,7 @@ def main_program_loop():
         
         driver.implicitly_wait(200)
         
-        #SEARCH FUNCTION NEEDS IMPROVEMENT AS OPENSEA DOESNT PULL UP EXACT NUMBERS. ANY SUGGESTIONS ARE APPRECIATED!!#
+        #SEARCH FUNCTION NEEDS IMPROVEMENT AS OPENSEA DOESNT PULL UP EXACT NUMBERS. ANY SUGGESTIONS ARE APPRECIATED!!# 
         
         result = WebDriverWait(driver, 60).until(EC.element_to_be_clickable(driver.find_element_by_xpath(".//img[contains(@alt, 'Piggie') and contains(@alt, start_num)]"))) 
         driver.implicitly_wait(200)                
