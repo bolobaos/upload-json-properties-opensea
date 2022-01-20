@@ -1,6 +1,6 @@
 # NFTs Upload Properties to **existing** NFT Collection on Opensea
 
-Hi all, I created my nft collection on Opensea using this: https://github.com/nftdevs/NFTs-Upload-to-OpenSea. At the time, they did not have the function to upload properties. Now they do: https://github.com/nftdevs/NFTs_Upload_To_OpenSea_With_Metadata
+Hi all, I created my nft collection on Opensea using this: https://github.com/nftdevs/NFTs-Upload-to-OpenSea. At the time, they did not have the function to upload properties. Now they do: https://github.com/nftdevs/NFTs_Upload_To_OpenSea_With_Metadata. Use this if you are hoping to edit an existing collection to add properties. Use something else if you are *creating* a new collection.
 
 If you are like me and already created a collection without properties, you may want to go back and update the properties via an automated approach. I wasn't able to find one that did, so I tweaked the existing code of the original app that I used. See below for credits.  
 
