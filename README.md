@@ -4,7 +4,7 @@ Hi all, I created my nft collection on Opensea using this: https://github.com/nf
 
 If you are like me and already created a collection without properties, you may want to go back and update the properties via an automated approach. I wasn't able to find one that did, so I tweaked the existing code of the original app that I used. See below for credits.  
 
-Please REVIEW the code prior to using. Any suggestions would be much appreciated (see search function in code). I tweaked this code for my own project so you may need to tweak it for yours. It's not the best as I'm not savvy in coding. Nonetheless, it was a struggle for me to find anything that worked so hopefully this is a good start for you. If you are using this, my assumption is that you have some basic knowledge in coding. Main concept of this is that you input which NFT you want to edit, the program will then search for that number, click on it to edit and add properties.  
+Please REVIEW the code prior to using. Any suggestions would be much appreciated (see search function in code). I tweaked this code for my own project so you may need to tweak it for yours. It's not the best as I'm not savvy in coding. Also, it uses the search function to look for the existing NFT and Opensea's search function isn't the best. Nonetheless, it was a struggle for me to find anything that worked so hopefully this is a good start for you. If you are using this, my assumption is that you have some basic knowledge in coding. Main concept of this is that you input which NFT you want to edit, the program will then search for that number, click on it to edit and add properties.  
 
 This only works for json files.
 
