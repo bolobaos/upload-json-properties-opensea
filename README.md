@@ -10,7 +10,7 @@ This only works for json files.
 
 ➜ **Feel free to provide feedback on how to improve the code.**: <br>
 ➜ **0x083eCd0020ce2972e7A8a418C37F8e91f9a9fAdF** (Ethereum).<br>
-➜ **Check out my collection on OpenSea: https://opensea.io/collection/piggieland. I'll likely take any offers :)<br>
+➜ **Check out my collection on OpenSea: https://opensea.io/collection/piggieland**. I'll likely take any offers :)<br>
 
 Steps:
 1. Download Python and Chrome browser
