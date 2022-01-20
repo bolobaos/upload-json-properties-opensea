@@ -20,7 +20,7 @@ Steps:
 5. Input 'pip install -r requirements.txt'
 6. 'python uploadproperties.py' (Run the script)
 7. Press the "Open Chrome Browser" button
-8. Set up your metamask wallet and login to Opensea using your wallet. If you stay on this page, you should not have to login again while script runs. 
+8. Set up your metamask wallet and login to Opensea using your wallet. If you stay on this page, you should not have to login again while the script runs. 
 9. Open the collection you want to edit. Copy collection link and paste it in app.
 10. Edit Start and End number to the NFTs that you want to edit. Edit other parameters as needed.
 11. Review 'python uploadproperties.py' as needed to make sure the code is up to date with your parameters.
