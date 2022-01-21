@@ -233,7 +233,7 @@ def main_program_loop():
         logging.info(driver.current_url) #FOR LOGGING TRACKING AND PURPOSES
         get_title = driver.title         
         print(get_title, " ", len(get_title))
-        logging.info(get_title, " ", len(get_title))##FOR LOGGING TRACKING AND PURPOSES TO MAKE SURE CORRECT NFT IS SELECTED. IF BROWSER DOESNT REFRESH IN TIME, PROGRAM MAY SELECT WRONG NFT. THIS WILL ALLOW YOU TO DOUBLE CHECK
+      
         edit.click()
 
         #####PROPERTIES SELECTED###
